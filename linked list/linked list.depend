@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1607362667 source:c:\users\standard\desktop\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+
+1607362778 c:\users\standard\desktop\linked list\slist.h
+	<stdint.h>
+
+1607362781 source:c:\users\standard\desktop\linked list\slist.c
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+
